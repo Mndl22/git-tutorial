@@ -2,3 +2,10 @@
 echo "Hello Linux"
 echo "Welcome to shell scripting begineer to advance project"
 
+# modifying this flie:
+
+echo "system information"
+cat /etc/*release*
+hostname
+hostname -i
+hostname -I
