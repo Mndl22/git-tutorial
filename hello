@@ -5,7 +5,7 @@ echo "Welcome to shell scripting begineer to advance project"
 # modifying this flie:
 
 echo "system information"
-cat /etc/*release*
+cat /etc/*release* | head -7
 hostname
 hostname -i
 hostname -I
